@@ -1,5 +1,6 @@
 package JAVASE.DAY02.Pac02;
 //方法的调用
+
 public class Demo01 {
     public static int max(int num1, int num2) {
         int result;

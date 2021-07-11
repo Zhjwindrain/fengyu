@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aeb24fa4-4034-41e8-a918-a4faceee0fc9" name="默认变更列表" comment="">
+      <change afterPath="$PROJECT_DIR$/fengyu.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/javaScript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaScript/lesson1/zhj.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVASE/DAY02/Pac02/Demo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/JAVASE/DAY02/Pac02/Demo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sHzEZRuhhCx60179X3XA0oLERd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RunManager" selected="应用程序.test (1)">
+    <configuration name="demo06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASE.DAY02.Pac04.demo06" />
+      <module name="fengyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVASE.DAY02.Pac04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASE.DAY02.Pac04.demo07" />
+      <module name="fengyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVASE.DAY02.Pac04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demo08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASE.DAY02.Pac04.demo08" />
+      <module name="fengyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVASE.DAY02.Pac04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASE.DAY03.P1.OOP.superTest.test" />
+      <module name="fengyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVASE.DAY03.P1.OOP.superTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVASE.DAY03.P1.OOP.fengzhuang.test" />
+      <module name="fengyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JAVASE.DAY03.P1.OOP.fengzhuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.test (1)" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.demo08" />
+        <item itemvalue="应用程序.demo07" />
+        <item itemvalue="应用程序.demo06" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="aeb24fa4-4034-41e8-a918-a4faceee0fc9" name="默认变更列表" comment="" />
+      <created>1620544194355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620544194355</updated>
+      <workItem from="1620544196971" duration="53000" />
+      <workItem from="1620907491434" duration="1663000" />
+      <workItem from="1621047895648" duration="5825000" />
+      <workItem from="1621071776528" duration="3530000" />
+      <workItem from="1621136773854" duration="18000" />
+      <workItem from="1621164850117" duration="3576000" />
+      <workItem from="1621214744876" duration="2094000" />
+      <workItem from="1621304345136" duration="9359000" />
+      <workItem from="1621398353662" duration="4608000" />
+      <workItem from="1621509063986" duration="633000" />
+      <workItem from="1621684458974" duration="3255000" />
+      <workItem from="1621737685739" duration="4951000" />
+      <workItem from="1621745959856" duration="23000" />
+      <workItem from="1621751233852" duration="5693000" />
+      <workItem from="1621936690844" duration="20000" />
+      <workItem from="1621942545202" duration="423000" />
+      <workItem from="1622008794557" duration="2695000" />
+      <workItem from="1622270372043" duration="401000" />
+      <workItem from="1622271885784" duration="155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

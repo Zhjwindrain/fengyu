@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<form action="test.html" method="get">
+    <!--文本框 type="text"
+    value ：文本框默认的初始值
+    size： 文本框的长度
+    maxlength： 文本框的最大输入长度
+    -->
+    <p>
+        <input type="text" name="username" value="用户名" size="30" maxlength="20">
+    </p>
+
+    <!--密码框 type="password"
+    size="20" 密码框的长度
+    -->
+    <p>
+        <input type="password" name="pwd" size="20">
+    </p>
+
+    <!--单选框Group  type="radio"
+    -->
+
+    <!--单选框type="radio"
+        value： 表单提交的值
+        name： 名字相同，则自动分组，必须要分组
+        checked： 默认选中
+        disabled： 禁用
+        注意事项：默认没有值，需要再input type="radio" 后增加单选框的属性
+    -->
+    <p>
+        <input type="radio" value="男" name="sex" checked>男
+        <input type="radio" value="女" name="sex" disabled>女
+    </p>
+
+
+    <!--多选框 type="checkbox"
+        name： 必填项，如果是分组，则名称一致
+        value： 表单提交的值
+        checked： 默认选中
+        disabled： 禁用
+        注意事项：默认没有值，需要再input type="checkbox" 后增加多选框的属性
+    -->
+    <p>
+        <input type="checkbox" name="hobby" value="code">敲代码
+        <input type="checkbox" name="hobby" value="music" checked>听音乐
+        <input type="checkbox" name="hobby" value="girl" disabled>女孩
+    </p>
+
+
+
+    <!--下拉列表框
+    select
+        name： 组件名字 必填
+        size:  显示的数量，默认为1
+
+    option： 选项
+        value 必填
+        option标签中间写下拉框的值
+        selected： 默认选中
+
+    -->
+    <select name="科目">
+        <option value="1"></option>
+        <option value="2">数学</option>
+        <option value="3" selected>英语</option>
+        <option value="4">英语</option>
+        <option value="5">英语</option>
+    </select>
+
+    <!--按钮
+      value：按钮上的文字
+    -->
+    <p>
+        <!--提交-->
+        <input type="submit" value="登录">
+        <!--重置--使用-->
+        <input type="reset" value="清空">
+        <!--普通按钮：一般后来我们会和javascript结合使用，点击按钮xxx-->
+        <input type="button" value="点我">
+        <!--图片按钮
+            type="image"
+        -->
+        <input type="image" src="../statics/images/bd.png">
+    </p>
+
+    <!--文本域  cols  rows-->
+    <textarea name="textarea" cols="10" rows="10">
+    </textarea>
+
+    <!--邮箱-->
+    <p>
+        邮箱：<input type="email" name="email">
+    </p>
+
+    <!--url网址-->
+    <p>
+        url：<input type="url" name="url">
+    </p>
+
+    <!--数字：商品数量，计数  type="number"
+    最小值  min="0"
+    最大值  max="100"
+    步长    step="10"
+    -->
+    <p>
+        数字：<input type="number" min="0" max="100" step="10">
+    </p>
+
+    <!--滑块
+    默认值0~100
+    -->
+    <p>
+        <input type="range" name="range" min="0" max="1000" step="2">
+    </p>
+
+    <!--搜索框-->
+    <p>
+       搜索： <input type="search" name="search">
+    </p>
+
+</form>
+
+
+</body>
+</html>
